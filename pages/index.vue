@@ -26,8 +26,8 @@
 
       <v-col cols="12">  
         <h3>
-          Buscando sempre atender aos gostos e pedidos dos clientes, desenvolvo o que você precisa!<br />
-          Ultimo serviço: <a href="https://triskeleletrificacao.com.br">triskeleletrificacao.com.br</a><br />
+          Buscando sempre atender aos gostos e pedidos dos clientes, desenvolvo o que você precisa!<br /><br/>
+          Ultimo serviço: <a href="https://triskeleletrificacao.com.br">triskeleletrificacao.com.br</a><br /><br />
           Caso se interesse pelo serviço de programação entre em contato pelo botão.
         </h3>
               
